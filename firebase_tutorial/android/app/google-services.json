@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "538708421839",
+    "firebase_url": "https://grandilo-news-app.firebaseio.com",
+    "project_id": "grandilo-news-app",
+    "storage_bucket": "grandilo-news-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538708421839:android:f71edc3f0322c75de91bba",
+        "android_client_info": {
+          "package_name": "com.bosslevan.firebase_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538708421839-v0u9aiul5koon3ds9at2nhp80oiir9uv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW6sVxCMgsAZgXcLYck4lMF5vXUcAeDa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538708421839-v0u9aiul5koon3ds9at2nhp80oiir9uv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538708421839:android:7df57b78f61d9b53e91bba",
+        "android_client_info": {
+          "package_name": "com.kosianyaegbuna.grandilo_news_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538708421839-v0u9aiul5koon3ds9at2nhp80oiir9uv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW6sVxCMgsAZgXcLYck4lMF5vXUcAeDa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538708421839-v0u9aiul5koon3ds9at2nhp80oiir9uv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
